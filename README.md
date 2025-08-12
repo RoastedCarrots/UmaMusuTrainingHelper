@@ -5,8 +5,8 @@ Use in borderless fullscreen
 ## REAAAAAAAAAAALLY IMPORTANT NOTE:
 This sucks, just plainly suck, in lategame.
 I made this with the thoughts of early-game training in mind, aka getting friendship up.
-Totally forgot to think about lategame
-Honestly this is just a random coding adventure to kill time
+Totally forgot to think about lategame.
+Honestly this is just a random coding adventure to kill time.
 
 
  ## 🎮 Controls
