@@ -34,7 +34,13 @@ Use in borderless fullscreen
 
 5. **Debug Logging**  
    - Saves matched images with bounding boxes into the `debug` folder
+
+## Download
   
+If you just want to run the app → Go to the Releases page and download the latest .zip. Extract it and run TrainingHelper.exe.
+
+If you want to view or modify the code → Clone this repo and open TrainingHelper.py in Python 3.
    
 ## Notes
 It's in no way anywhere NEAR completed. There was so many things for me to add like rainbow training calculation, friendship bar,... but I can't figure out what the most consistent was is without being very weird and broken. I haven't added all characters, so if there's any support card I missed, you can easily manually add it by capturing the icon, in game (use images in templates as reference) and add it manually to templates.
+If something went wrong feel free to directly message me via kurisu.0 on discord
